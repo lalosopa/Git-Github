@@ -1,7 +1,7 @@
 Añade tu nombre en el número que corresponde:
 
 1.Jasiel Ruiz
-2.
+2.Eduardo
 3. Mariana
 4. Vianey Pastran
 5.
